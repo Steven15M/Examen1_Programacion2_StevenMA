@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wxamn1_progra2_S", "Wxamn1_progra2_S\Wxamn1_progra2_S.csproj", "{5691AAF1-8E98-4AFB-BD43-672DA3817E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5691AAF1-8E98-4AFB-BD43-672DA3817E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5691AAF1-8E98-4AFB-BD43-672DA3817E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5691AAF1-8E98-4AFB-BD43-672DA3817E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5691AAF1-8E98-4AFB-BD43-672DA3817E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28CE153F-5819-4C1C-9962-3B72C12ABADD}
+	EndGlobalSection
+EndGlobal

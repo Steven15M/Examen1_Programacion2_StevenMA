@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wxamn1_progra2_S/1.0.0": {
+        "runtime": {
+          "Wxamn1_progra2_S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wxamn1_progra2_S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

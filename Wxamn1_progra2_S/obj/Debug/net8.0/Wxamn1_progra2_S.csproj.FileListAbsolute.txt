@@ -1,0 +1,14 @@
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\bin\Debug\net8.0\Wxamn1_progra2_S.exe
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\bin\Debug\net8.0\Wxamn1_progra2_S.deps.json
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\bin\Debug\net8.0\Wxamn1_progra2_S.runtimeconfig.json
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\bin\Debug\net8.0\Wxamn1_progra2_S.dll
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\bin\Debug\net8.0\Wxamn1_progra2_S.pdb
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.AssemblyInfo.cs
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.dll
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\refint\Wxamn1_progra2_S.dll
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.pdb
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\Wxamn1_progra2_S.genruntimeconfig.cache
+C:\Users\Steven\Desktop\UH\Programacion 2\Wxamn1_progra2_S\Wxamn1_progra2_S\obj\Debug\net8.0\ref\Wxamn1_progra2_S.dll
